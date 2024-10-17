@@ -23,3 +23,7 @@ dir /a
 ```
 rmdir /s .git
 ```
+## Muestra ramas de mi repositorio
+```
+git branch
+```
